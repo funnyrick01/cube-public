@@ -1,6 +1,0 @@
-enable: false
-host: 'localhost'
-port: '3306'
-database: 'whooshmc_dev'
-username: 'whooshmc_server'
-password: 'qhc0fbmldhwJfjo8P3rm'
