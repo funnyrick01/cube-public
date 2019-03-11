@@ -1,0 +1,150 @@
+visitor:
+  prefix: '&7[Visitor] '
+  suffix: ''
+  permissions:
+  - core.tp
+  - core.warp
+  - bukkit.command.help
+donator:
+  prefix: '&8[&1D&9O&2N&aA&3T&bO&cR&8] &7'
+  suffix: '&f'
+  permissions:
+  - core.tp
+  - core.warp
+  - bukkit.command.help
+subscriber:
+  prefix: '&8[&1S&9U&2B&aS&3C&bR&4I&cB&5E&dR&8] &7'
+  suffix: '&f'
+  permissions:
+  - core.tp
+  - core.warp
+  - bukkit.command.help
+visitorplus:
+  prefix: '&8[Visitor&f+&8] &7'
+  suffix: '&f'
+  permissions:
+  - core.tp
+  - core.warp
+  - core.speed
+  - bukkit.command.help
+  - minecraft.command.tell
+  - core.gamemode
+  - music.list
+  - music.item.spawn.list
+  - music.item.use.list
+trial:
+  prefix: '&b[Trial] &7'
+  suffix: '&f'
+  permissions:
+  - core.home
+  - core.tp
+  - core.warp
+  - core.speed
+  - core.hide
+  - bukkit.command.help
+  - minecraft.command.tell
+  - core.gamemode
+  - music.list
+  - music.item.spawn.list
+  - music.item.use.list
+  - core.skull
+redstone:
+  prefix: '&5[RedStone] &7'
+  suffix: '&f'
+  permissions:
+  - core.home
+  - core.tp
+  - core.warp
+  - core.speed
+  - core.hide
+  - bukkit.command.help
+  - minecraft.command.give
+  - minecraft.command.tell
+  - minecraft.command.summon
+  - minecraft.command.entitydata
+  - minecraft.command.kill
+  - minecraft.command.tp
+  - minecraft.command.selector
+  - core.gamemode
+  - core.skull
+  - fawe.permpack.basic
+builder:
+  prefix: '&a[Builder] &7'
+  suffix: '&f'
+  permissions:
+  - core.home
+  - core.tp
+  - core.warp
+  - core.afk
+  - core.afk.exempt
+  - core.speed
+  - core.hide
+  - jobs.use
+  - bukkit.command.help
+  - minecraft.command.tell
+  - core.gamemode
+  - minecraft.command.list
+  - worldguard.region.bypass.*
+  - fawe.permpack.basic
+  - core.skull
+builderplus:
+  prefix: '&2[Builder&6+&2] &7'
+  suffix: '&f'
+  permissions:
+  - core.home
+  - core.tp
+  - core.warp
+  - core.mute
+  - core.afk
+  - core.afk.exempt
+  - core.speed
+  - core.hide
+  - jobs.use
+  - bukkit.command.help
+  - minecraft.command.tell
+  - core.gamemode
+  - minecraft.command.list
+  - worldguard.region.bypass.*
+  - fawe.permpack.basic
+  - voxelsniper.brush.*
+  - voxelsniper.sniper
+  - voxelsniper.goto
+  - core.skull
+admin:
+  prefix: '&c[Admin] &7'
+  suffix: '&f'
+  permissions:
+  - core.home
+  - core.tp
+  - core.warp
+  - core.mute
+  - core.tempban
+  - core.afk
+  - core.afk.exempt
+  - core.speed
+  - minecraft.command.toggledownfall
+  - core.tphere
+  - core.hide
+  - jobs.use
+  - bukkit.command.help
+  - minecraft.command.tell
+  - core.gamemode
+  - minecraft.command.list
+  - worldguard.region.bypass.*
+  - fawe.permpack.basic
+  - voxelsniper.brush.*
+  - voxelsniper.sniper
+  - voxelsniper.goto
+  - core.skull
+  - core.weapon
+owner:
+  prefix: '&4[Owner] &7'
+  suffix: '&f'
+  permissions:
+  - '*'
+devoloper:
+  prefix: '&3[Developer] &7'
+  suffix: '&f'
+  tab-prefix: '&3[Dev] &7'
+  permissions:
+    - '*'

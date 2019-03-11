@@ -1,0 +1,5 @@
+name: TheCube
+version: 1.12
+main: com.palagear.thecube.Main
+authors: [funnyrick01]
+description: The cube plugin for the server Palagear

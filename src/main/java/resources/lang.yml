@@ -1,0 +1,5 @@
+Messages:
+  join-Message: '&e%player% WHOOSHED into the server'
+  quit-Message: '&e%player% WHOOSHED away'
+    
+  join-info: []

@@ -1,0 +1,20 @@
+chat_format: '%prefix%%displayname%: %suffix%%message%'
+team_chat_format: '&8[&2Team&8] &r%prefix%%displayname%: %suffix%%message%'
+default-rank: 'visitor'
+#Time is in seconds!!
+afk-time: 600
+broadcast-time: 200
+apply-message: 
+- '&4Apply here:&r https://goo.gl/forms/keYNO6JfVx5r0pew2'
+donate-message: 
+- '&2We are a &cNON-PROFIT &2buildteam, by donating'
+- '&2you will help to keep the server up and running!'
+- '                                                        '
+- '&2Use &r/buy &2to donate via Enjin, or use:'
+- '&6Paypal:&r https://paypal.me/LarsKorpel'
+- '&6Server:&r https://www.minecraft-hosting.pro/c4g/373008'
+- '                                                        '
+- '&2Every donation is higly appreciated!'
+AFK-Prefix: ' &7[&cAFK&7]&f '
+disable-reload: false
+default-gamemode: 'adventure'
